@@ -1,0 +1,108 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Рабочий стол\\Учеба\\Магистратура\\github для удаленки\\Magistracy\\Программирование\\Онлайн чат\\WebChat (Рабочая версия)\\WebChat\\WebChat.csproj": {}
+  },
+  "projects": {
+    "D:\\Рабочий стол\\Учеба\\Магистратура\\github для удаленки\\Magistracy\\Программирование\\Онлайн чат\\WebChat (Рабочая версия)\\WebChat\\WebChat.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Рабочий стол\\Учеба\\Магистратура\\github для удаленки\\Magistracy\\Программирование\\Онлайн чат\\WebChat (Рабочая версия)\\WebChat\\WebChat.csproj",
+        "projectName": "WebChat",
+        "projectPath": "D:\\Рабочий стол\\Учеба\\Магистратура\\github для удаленки\\Magistracy\\Программирование\\Онлайн чат\\WebChat (Рабочая версия)\\WebChat\\WebChat.csproj",
+        "packagesPath": "C:\\Users\\Вадим\\.nuget\\packages\\",
+        "outputPath": "D:\\Рабочий стол\\Учеба\\Магистратура\\github для удаленки\\Magistracy\\Программирование\\Онлайн чат\\WebChat (Рабочая версия)\\WebChat\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Вадим\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Hangfire.SQLite": {
+              "target": "Package",
+              "version": "[1.4.2, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "automapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
