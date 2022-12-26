@@ -4,6 +4,7 @@ using System.Threading.Tasks;
 using WebChat.Services;
 using Microsoft.Data.Sqlite;
 using WebChat.Models;
+using AutoMapper;
 
 namespace WebChat.Hubs
 {
@@ -11,11 +12,14 @@ namespace WebChat.Hubs
     {
         private readonly ChatService _chatService;
         private readonly ApplicationContext _context;
+        private readonly IMapper _mapper;
+        public object Id { get; private set; }
 
-        public ChatHub(ChatService chatService, ApplicationContext context)
+        public ChatHub(ChatService chatService, ApplicationContext context, IMapper mapper)
         {
             _chatService = chatService;
             _context = context;
+            _mapper = mapper;
         }
 
         public async Task Enter(string userName)

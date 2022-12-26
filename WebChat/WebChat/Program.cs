@@ -26,7 +26,7 @@ var connectionString = builder.Configuration.GetConnectionString("ChatDBConnecti
 builder.Services.AddDbContext<ApplicationContext>(options =>
 options.UseSqlite(connectionString));
 
-//builder.Services.AddAutoMapper(typeof(AppMappingProfile));
+    builder.Services.AddAutoMapper(typeof(AppMappingProfile));
 
 var app = builder.Build();
 
@@ -42,6 +42,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+
 
 app.UseAuthorization();
 
