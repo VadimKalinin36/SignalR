@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Рабочий стол\\Учеба\\Магистратура\\github для удаленки\\Magistracy\\Программирование\\Онлайн чат\\WebChat (Рабочая версия)\\WebChat\\WebChat.csproj": {}
+    "D:\\Калинин В.С\\SignalR\\WebChat\\WebChat\\WebChat.csproj": {}
   },
   "projects": {
-    "D:\\Рабочий стол\\Учеба\\Магистратура\\github для удаленки\\Magistracy\\Программирование\\Онлайн чат\\WebChat (Рабочая версия)\\WebChat\\WebChat.csproj": {
+    "D:\\Калинин В.С\\SignalR\\WebChat\\WebChat\\WebChat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Рабочий стол\\Учеба\\Магистратура\\github для удаленки\\Magistracy\\Программирование\\Онлайн чат\\WebChat (Рабочая версия)\\WebChat\\WebChat.csproj",
+        "projectUniqueName": "D:\\Калинин В.С\\SignalR\\WebChat\\WebChat\\WebChat.csproj",
         "projectName": "WebChat",
-        "projectPath": "D:\\Рабочий стол\\Учеба\\Магистратура\\github для удаленки\\Magistracy\\Программирование\\Онлайн чат\\WebChat (Рабочая версия)\\WebChat\\WebChat.csproj",
-        "packagesPath": "C:\\Users\\Вадим\\.nuget\\packages\\",
-        "outputPath": "D:\\Рабочий стол\\Учеба\\Магистратура\\github для удаленки\\Magistracy\\Программирование\\Онлайн чат\\WebChat (Рабочая версия)\\WebChat\\obj\\",
+        "projectPath": "D:\\Калинин В.С\\SignalR\\WebChat\\WebChat\\WebChat.csproj",
+        "packagesPath": "C:\\Users\\Vadim.Kalinin\\.nuget\\packages\\",
+        "outputPath": "D:\\Калинин В.С\\SignalR\\WebChat\\WebChat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Вадим\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vadim.Kalinin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,9 +44,25 @@
               "target": "Package",
               "version": "[12.0.0, )"
             },
+            "Hangfire": {
+              "target": "Package",
+              "version": "[1.7.32, )"
+            },
+            "Hangfire.Dashboard.Basic.Authentication": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Hangfire.SQLite": {
               "target": "Package",
               "version": "[1.4.2, )"
+            },
+            "Hangfire.SQLite.Core": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Hangfire.Storage.SQLite": {
+              "target": "Package",
+              "version": "[0.3.2, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
@@ -100,7 +116,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

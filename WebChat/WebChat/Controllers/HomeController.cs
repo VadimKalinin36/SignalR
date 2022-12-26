@@ -2,6 +2,7 @@
 using System.Diagnostics;
 using WebChat.Models;
 using AutoMapper;
+using Hangfire;
 
 namespace WebChat.Controllers
 {
@@ -23,16 +24,8 @@ namespace WebChat.Controllers
         {
             var historyModel = _context.HistoryModels.ToList();
             var MaphistoryModel = _mapper.Map<List<MapHistoryModel>>(historyModel);
-            //var mapSendModel = _mapper.Map<List<MapSendModel>>(sendModel);
-
-            //var sendModel = _context.SendModels.FirstOrDefault();
-
-            //var mapSendModel = _mapper.Map<MapSendModel>(sendModel);
-
 
             return View(MaphistoryModel);
-
-
         }
 
         public IActionResult Privacy()

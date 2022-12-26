@@ -5,6 +5,7 @@ using WebChat.Services;
 using Microsoft.Data.Sqlite;
 using WebChat.Models;
 using AutoMapper;
+using Hangfire;
 
 namespace WebChat.Hubs
 {
@@ -20,6 +21,13 @@ namespace WebChat.Hubs
             _chatService = chatService;
             _context = context;
             _mapper = mapper;
+        }
+
+        public async Task runprocess()
+        {
+
+            _context.HistoryModels.RemoveRange(_context.HistoryModels);
+            _context.SaveChanges();
         }
 
         public async Task Enter(string userName)
@@ -50,6 +58,10 @@ namespace WebChat.Hubs
                     await Clients.All.SendAsync("SendMessage", message, userName, Context.ConnectionId);
                 }
             }
+
+            var jobId = BackgroundJob.Enqueue(
+                () => Console.WriteLine("Fire-and-forget!"));
+
         }
 
         public override async Task OnConnectedAsync()
