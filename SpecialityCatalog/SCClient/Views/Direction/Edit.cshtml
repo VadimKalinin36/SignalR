@@ -1,0 +1,16 @@
+﻿@model Direction
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form action="/Direction/Edit" method="post">
+    <input type="hidden" name="id" value="@Model.Id" />
+    <div class=" my-3">
+        <label>Название направления подготовки:</label>
+        <input type="text" name="name" class="form-control" value="@Model.Name" />
+
+    </div>
+
+   
+    <button type="submit" class="btn btn-primary">Сохранить</button>
+</form>

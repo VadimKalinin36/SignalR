@@ -1,0 +1,48 @@
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCData\bin\Debug\net6.0\SCData.deps.json
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCData\bin\Debug\net6.0\SCData.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCData\bin\Debug\net6.0\SCData.pdb
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.csproj.AssemblyReference.cache
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.AssemblyInfoInputs.cache
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.AssemblyInfo.cs
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.csproj.CoreCompileInputs.cache
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCData\obj\Debug\net6.0\refint\SCData.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.pdb
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCData\obj\Debug\net6.0\ref\SCData.dll
+D:\Учеба\магистратура\SpecialityCatalog\SCData\bin\Debug\net6.0\SCData.deps.json
+D:\Учеба\магистратура\SpecialityCatalog\SCData\bin\Debug\net6.0\SCData.dll
+D:\Учеба\магистратура\SpecialityCatalog\SCData\bin\Debug\net6.0\SCData.pdb
+D:\Учеба\магистратура\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.csproj.AssemblyReference.cache
+D:\Учеба\магистратура\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\магистратура\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.AssemblyInfoInputs.cache
+D:\Учеба\магистратура\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.AssemblyInfo.cs
+D:\Учеба\магистратура\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.csproj.CoreCompileInputs.cache
+D:\Учеба\магистратура\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.dll
+D:\Учеба\магистратура\SpecialityCatalog\SCData\obj\Debug\net6.0\refint\SCData.dll
+D:\Учеба\магистратура\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.pdb
+D:\Учеба\магистратура\SpecialityCatalog\SCData\obj\Debug\net6.0\ref\SCData.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCData\bin\Debug\net6.0\SCData.deps.json
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCData\bin\Debug\net6.0\SCData.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCData\bin\Debug\net6.0\SCData.pdb
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.csproj.AssemblyReference.cache
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.AssemblyInfoInputs.cache
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.AssemblyInfo.cs
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.csproj.CoreCompileInputs.cache
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCData\obj\Debug\net6.0\refint\SCData.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.pdb
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCData\obj\Debug\net6.0\ref\SCData.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCData\bin\Debug\net6.0\SCData.deps.json
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCData\bin\Debug\net6.0\SCData.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCData\bin\Debug\net6.0\SCData.pdb
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.csproj.AssemblyReference.cache
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.AssemblyInfoInputs.cache
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.AssemblyInfo.cs
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.csproj.CoreCompileInputs.cache
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCData\obj\Debug\net6.0\refint\SCData.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCData\obj\Debug\net6.0\SCData.pdb
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCData\obj\Debug\net6.0\ref\SCData.dll

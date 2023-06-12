@@ -1,0 +1,125 @@
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\bin\Debug\net6.0\appsettings.Development.json
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\bin\Debug\net6.0\appsettings.json
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCClient.staticwebassets.runtime.json
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCClient.exe
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCClient.deps.json
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCClient.runtimeconfig.json
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCClient.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCClient.pdb
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.csproj.AssemblyReference.cache
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.AssemblyInfoInputs.cache
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.AssemblyInfo.cs
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.csproj.CoreCompileInputs.cache
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.MvcApplicationPartsAssemblyInfo.cache
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.RazorAssemblyInfo.cache
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.RazorAssemblyInfo.cs
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\obj\Debug\net6.0\staticwebassets.build.json
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\obj\Debug\net6.0\staticwebassets.development.json
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\obj\Debug\net6.0\scopedcss\bundle\SCClient.styles.css
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\obj\Debug\net6.0\scopedcss\projectbundle\SCClient.bundle.scp.css
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\obj\Debug\net6.0\refint\SCClient.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.pdb
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.genruntimeconfig.cache
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\obj\Debug\net6.0\ref\SCClient.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCData.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCData.pdb
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.csproj.CopyComplete
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\bin\Debug\net6.0\appsettings.Development.json
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\bin\Debug\net6.0\appsettings.json
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCClient.staticwebassets.runtime.json
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCClient.exe
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCClient.deps.json
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCClient.runtimeconfig.json
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCClient.dll
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCClient.pdb
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCData.dll
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCData.pdb
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.csproj.AssemblyReference.cache
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.AssemblyInfoInputs.cache
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.AssemblyInfo.cs
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.csproj.CoreCompileInputs.cache
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.MvcApplicationPartsAssemblyInfo.cache
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.RazorAssemblyInfo.cache
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.RazorAssemblyInfo.cs
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\obj\Debug\net6.0\staticwebassets.build.json
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\obj\Debug\net6.0\staticwebassets.development.json
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\obj\Debug\net6.0\scopedcss\bundle\SCClient.styles.css
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\obj\Debug\net6.0\scopedcss\projectbundle\SCClient.bundle.scp.css
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.csproj.CopyComplete
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.dll
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\obj\Debug\net6.0\refint\SCClient.dll
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.pdb
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.genruntimeconfig.cache
+D:\Учеба\магистратура\SpecialityCatalog\SCClient\obj\Debug\net6.0\ref\SCClient.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\bin\Debug\net6.0\appsettings.Development.json
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\bin\Debug\net6.0\appsettings.json
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCClient.staticwebassets.runtime.json
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCClient.exe
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCClient.deps.json
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCClient.runtimeconfig.json
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCClient.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCClient.pdb
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCData.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCData.pdb
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.csproj.AssemblyReference.cache
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.AssemblyInfoInputs.cache
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.AssemblyInfo.cs
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.csproj.CoreCompileInputs.cache
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.MvcApplicationPartsAssemblyInfo.cache
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.RazorAssemblyInfo.cache
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.RazorAssemblyInfo.cs
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\obj\Debug\net6.0\staticwebassets.build.json
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\obj\Debug\net6.0\staticwebassets.development.json
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\obj\Debug\net6.0\scopedcss\bundle\SCClient.styles.css
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\obj\Debug\net6.0\scopedcss\projectbundle\SCClient.bundle.scp.css
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.csproj.CopyComplete
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\obj\Debug\net6.0\refint\SCClient.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.pdb
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.genruntimeconfig.cache
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SCClient\obj\Debug\net6.0\ref\SCClient.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\bin\Debug\net6.0\appsettings.Development.json
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\bin\Debug\net6.0\appsettings.json
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCClient.staticwebassets.runtime.json
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCClient.exe
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCClient.deps.json
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCClient.runtimeconfig.json
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCClient.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCClient.pdb
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCData.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\bin\Debug\net6.0\SCData.pdb
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.csproj.AssemblyReference.cache
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.AssemblyInfoInputs.cache
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.AssemblyInfo.cs
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.csproj.CoreCompileInputs.cache
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.MvcApplicationPartsAssemblyInfo.cache
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.RazorAssemblyInfo.cache
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.RazorAssemblyInfo.cs
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\obj\Debug\net6.0\staticwebassets\msbuild.SCClient.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\obj\Debug\net6.0\staticwebassets\msbuild.build.SCClient.props
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SCClient.props
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SCClient.props
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\obj\Debug\net6.0\staticwebassets.build.json
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\obj\Debug\net6.0\staticwebassets.development.json
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\obj\Debug\net6.0\scopedcss\bundle\SCClient.styles.css
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\obj\Debug\net6.0\scopedcss\projectbundle\SCClient.bundle.scp.css
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.csproj.CopyComplete
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\obj\Debug\net6.0\refint\SCClient.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.pdb
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\obj\Debug\net6.0\SCClient.genruntimeconfig.cache
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SCClient\obj\Debug\net6.0\ref\SCClient.dll

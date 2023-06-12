@@ -1,0 +1,21 @@
+﻿@model Group
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form action="/Group/Edit" method="post">
+    <input type="hidden" name="id" value="@Model.Id" />
+    <div class=" my-3">
+        <label>Название группы:</label>
+        <input type="text" name="name" class="form-control" value="@Model.Name" />
+
+    </div>
+
+    <div class=" my-3">
+        <label>Тип:</label>
+        <select name="type" asp-items="Html.GetEnumSelectList<GroupType>()" class=" form-control">
+        </select>
+
+    </div>
+    <button type="submit" class="btn btn-primary">Сохранить</button>
+</form>

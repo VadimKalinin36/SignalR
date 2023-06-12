@@ -1,0 +1,39 @@
+﻿@model (Student Student, SelectList Groups, SelectList Directions)
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form action="/Student/Edit" method="post">
+    <input type="hidden" name="id" value="@Model.Student.Id" />
+
+    <div class=" my-3">
+        <label>LastName:</label>
+    <input type="text" name="Lastname" class="form-control" value=" @Model.Student.LastName" />
+    </div>
+
+    <div class=" my-3">
+        <label>FirstName:</label>
+        <input type="text" name="Firstname" class="form-control" value="@Model.Student.FirstName"/>
+    </div>
+
+    <div class=" my-3">
+        <label>MiddleName:</label>
+        <input type="text" name="Middlename" class="form-control" value="@Model.Student.MiddleName" />      
+    </div>
+
+    <div class=" my-3">
+        <label>Группа:</label>
+        <select name="GroupId" asp-items="Model.Groups" class=" form-control">
+        </select>
+
+    </div>
+
+    <div class=" my-3">
+        <label>Направление подготовки:</label>
+        <select name="DirectionId" asp-items="Model.Directions" class=" form-control">
+        </select>
+
+    </div>
+
+    <button type="submit" class="btn btn-primary">Сохранить</button>
+</form>

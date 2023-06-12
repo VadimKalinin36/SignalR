@@ -1,0 +1,39 @@
+﻿@model (SelectList groups, SelectList directions) 
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<form action="/Student/Add" method="post">
+    <div class=" my-3">
+        <label>LastName:</label>
+        <input type = "text" name = "Lastname" class="form-control" />
+    </div>
+    
+    <div class=" my-3">
+        <label>FirstName:</label>
+        <input type="text" name="Firstname" class="form-control" />
+    </div>
+
+    <div class=" my-3">
+        <label>MiddleName:</label>
+        <input type="text" name="Middlename" class="form-control" />
+    </div>
+
+    <div class=" my-3">
+        <label>Группа:</label>
+        <select name="GroupId" asp-items="Model.groups" class=" form-control">
+           
+        </select>
+      
+    </div>
+
+    <div class=" my-3">
+        <label>Направление подготовки:</label>
+        <select name="DirectionId" asp-items="Model.directions" class=" form-control">
+        </select>
+
+    </div>
+
+    <button type="submit" class="btn btn-primary">Сохранить</button>
+</form>

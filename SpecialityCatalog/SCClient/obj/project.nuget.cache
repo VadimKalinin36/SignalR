@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "92k9xp5s5TYg085OFaG35FJC5Hr+fTUfnMVt+zummooWhFY9hFT4g//vuGY2GEPvAWVLiHpzT1Hy54bQlEMbAg==",
+  "success": true,
+  "projectFilePath": "D:\\Учеба\\Магистратура\\Гурин\\SpecialityCatalog\\SCClient\\SCClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Вадим\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

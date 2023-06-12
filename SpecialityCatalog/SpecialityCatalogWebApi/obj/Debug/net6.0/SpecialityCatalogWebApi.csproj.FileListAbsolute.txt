@@ -1,0 +1,240 @@
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\appsettings.json
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SpecialityCatalogWebApi.exe
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SpecialityCatalogWebApi.deps.json
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SpecialityCatalogWebApi.runtimeconfig.json
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SpecialityCatalogWebApi.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SpecialityCatalogWebApi.pdb
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.csproj.AssemblyReference.cache
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.AssemblyInfoInputs.cache
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.AssemblyInfo.cs
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.csproj.CoreCompileInputs.cache
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\scopedcss\bundle\SpecialityCatalogWebApi.styles.css
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.csproj.CopyComplete
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\refint\SpecialityCatalogWebApi.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.pdb
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.genruntimeconfig.cache
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\ref\SpecialityCatalogWebApi.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Humanizer.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SCData.dll
+D:\Учеба\магистратура\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\Каталаог специальностей\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SCData.pdb
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\appsettings.json
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SpecialityCatalogWebApi.exe
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SpecialityCatalogWebApi.deps.json
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SpecialityCatalogWebApi.runtimeconfig.json
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SpecialityCatalogWebApi.dll
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SpecialityCatalogWebApi.pdb
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Humanizer.dll
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SCData.dll
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SCData.pdb
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.csproj.AssemblyReference.cache
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.AssemblyInfoInputs.cache
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.AssemblyInfo.cs
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.csproj.CoreCompileInputs.cache
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\scopedcss\bundle\SpecialityCatalogWebApi.styles.css
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.csproj.CopyComplete
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.dll
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\refint\SpecialityCatalogWebApi.dll
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.pdb
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.genruntimeconfig.cache
+D:\Учеба\магистратура\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\ref\SpecialityCatalogWebApi.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\appsettings.json
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SpecialityCatalogWebApi.exe
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SpecialityCatalogWebApi.deps.json
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SpecialityCatalogWebApi.runtimeconfig.json
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SpecialityCatalogWebApi.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SpecialityCatalogWebApi.pdb
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Humanizer.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SCData.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SCData.pdb
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.csproj.AssemblyReference.cache
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.AssemblyInfoInputs.cache
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.AssemblyInfo.cs
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.csproj.CoreCompileInputs.cache
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\scopedcss\bundle\SpecialityCatalogWebApi.styles.css
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.csproj.CopyComplete
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\refint\SpecialityCatalogWebApi.dll
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.pdb
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.genruntimeconfig.cache
+D:\Учеба\магистратура\Интеграция СППР\integration-of-sppr-into-the-infrastructure-of-a-metallurgical-enterprise\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\ref\SpecialityCatalogWebApi.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\appsettings.json
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SpecialityCatalogWebApi.exe
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SpecialityCatalogWebApi.deps.json
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SpecialityCatalogWebApi.runtimeconfig.json
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SpecialityCatalogWebApi.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SpecialityCatalogWebApi.pdb
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Humanizer.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SCData.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\SCData.pdb
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.csproj.AssemblyReference.cache
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.AssemblyInfoInputs.cache
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.AssemblyInfo.cs
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.csproj.CoreCompileInputs.cache
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\staticwebassets\msbuild.SpecialityCatalogWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.SpecialityCatalogWebApi.props
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SpecialityCatalogWebApi.props
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SpecialityCatalogWebApi.props
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\scopedcss\bundle\SpecialityCatalogWebApi.styles.css
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.csproj.CopyComplete
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\refint\SpecialityCatalogWebApi.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.pdb
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\SpecialityCatalogWebApi.genruntimeconfig.cache
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\obj\Debug\net6.0\ref\SpecialityCatalogWebApi.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Учеба\Магистратура\Гурин\SpecialityCatalog\SpecialityCatalogWebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
